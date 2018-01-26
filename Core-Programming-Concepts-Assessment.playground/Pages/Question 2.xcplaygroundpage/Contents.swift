@@ -24,6 +24,16 @@
  
  */
 // Answer question 2 below
+let bookName = "Book Name"
+var copiesSold = 100
+let authorName = "Author Name"
+let sellingPrice = 20
+let yearPublished = 2018
+print("Variable means it can change in the future. The constant means it won't change. I wrote book name, author name, selling price and year publish as constant. Because they are all in the past, they won't change after the book is published. However, the copies of sold will change in the future. Because people will buy this book, so the number of the sold will increase. So I wrote it as a variable.")
+
+
+
+
 
 /*:
  ## Now share your understanding
